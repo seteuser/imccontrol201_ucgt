@@ -3,7 +3,7 @@ O índice de massa corporal (IMC) é uma medida internacional usada para calcula
 by https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal
 
 ### histórico
-semana 4
+(semana 4)
 Abstração
 Responsabilidade
 Tipo de classe (executavel, entidade, regra)
@@ -11,7 +11,7 @@ Encapsulamento
 Construtores
 Acesso estático
 
-semana 18
+(semana 18)
 rule design
 uso de entidade coesa
 associacao de entidades (1)
