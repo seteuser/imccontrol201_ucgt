@@ -19,3 +19,9 @@ rule design
 uso de entidade coesa
 associacao de entidades (1)
 manipuacao e acesso de associacao (1)
+
+(semana 26)
+associacao de entidades (*)
+manipuacao e acesso de associacao (*)
+protegendo o acesso ao TAD lista
+prop de novos metodos (total e firstAvaliacao)

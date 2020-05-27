@@ -17,7 +17,6 @@ class Avaliacao {
     return this.altura;
   }
 
-
   public float indice() {
      float imc = this.peso / (this.altura * this.altura);
 		 return imc; 
