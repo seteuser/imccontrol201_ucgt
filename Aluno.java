@@ -3,18 +3,10 @@ import java.util.ArrayList;
 class Aluno {
 
   private String nome;
-	private ArrayList<Avaliacao> avaliacoes = new ArrayList<Avaliacao>();
-  //coleção de dados implementado sobre uma estrutura estatica de TAD, exemplo []
-	//permitindo como vantagens alguns comportamentos (add, size, contains, remove, get...)
-	//e principalmente a sensacao de dinamismo quanto ao controle do tamanho.
-	//arraylist encapsula as operacoes de manipulacao de uma lista*
-  
+  ArrayList<Avaliacao> avaliacoes = new ArrayList<Avaliacao>();
   
 
-
-
-  //construtor
-  public Aluno(String n) {
+  public void setNome(String n) {
       nome = n;
   }
   

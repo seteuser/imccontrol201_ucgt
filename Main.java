@@ -7,6 +7,6 @@ class Main {
 
  
 
-    System.out.println("teste ok, fim!");
+    System.out.println("\n\n(log) teste ok, fim!");
   }
 }

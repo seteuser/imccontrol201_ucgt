@@ -3,6 +3,7 @@ class Avaliacao {
 	private float peso;
 	private float altura;
 	//private float indice;
+  Aluno[] a = new Aluno[10] ;
 
   public Avaliacao(float p, float a) {
       this.peso = p;
